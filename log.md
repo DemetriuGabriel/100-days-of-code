@@ -7,3 +7,11 @@
 **Thoughts:** I really struggled with Javascript because i need to improve my skills and practice them, but maybe a little work.
 
 **Link to work**: [Calculator with JS](https://github.com/DemetriuGabriel/getkcal)
+
+### Day 1: July 05, 2020
+
+**Today's Progress**: adding CSS and functionalities with javascript as functions and variables.
+
+**Thoughts:** I really struggled with Javascript because of its functions and logic, but this is wonderful.
+
+**Link to work**: [Calculator with JS](https://github.com/DemetriuGabriel/getkcal)
