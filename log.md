@@ -21,4 +21,11 @@
 **Today's Progress**: Created new mobile project with javascript, spotify clone with react native.
 
 **Thoughts:** I really struggled with Javascript because I am improving my javascript, but as I have more mobile knowledge it becomes more relaxed.
-**Link to work**: 
+**Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone) 
+
+### Day 3: July 07, 2020
+
+**Today's Progress**: Adding CreateBottomTabNavigator with react navigation, finished.
+
+**Thoughts:** I really struggled with bottomTabNavigator because an error ocurred in the process, but it was okay to resolve.
+**Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone) 
