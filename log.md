@@ -29,3 +29,27 @@
 
 **Thoughts:** I really struggled with bottomTabNavigator because an error ocurred in the process, but it was okay to resolve.
 **Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone) 
+
+### Day 4: July 08, 2020
+
+**Today's Progress**: Create new design and logic for spotify pages
+
+**Thoughts:** I really struggled with bottomTabNavigator because an error ocurred in the process, but it was okay to resolve.
+**Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone)
+
+### Day 5: July 09, 2020
+
+**Today's Progress**: Continued page design and spotify logic. With Styled Components.
+
+**Thoughts:** I really struggled because it's a little complicated to make the spotify screens but I'm loving it.
+**Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone)
+
+### Day 6: July 10, 2020
+
+**Today's Progress**: delving into the design of interfaces and screen functionality.
+
+**Thoughts:** I really struggled because it's a little complicated to make the spotify screens but I'm loving it.
+**Link to work**: [Spotify Clone](https://github.com/DemetriuGabriel/SpotifyClone)
+
+
+
